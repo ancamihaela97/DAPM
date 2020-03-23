@@ -11,4 +11,4 @@ and show it to the second activity. After we write the word nothing we didn't pr
 in the preferences. Also the text passed with putExtra is always showing in the second activity.
     Again we used TeamViewer and shared screen to complete this lab together.
 
-Lab 5, Stefan Anca + Seit-Amet Ailin, 1240F
+Lab 6, Stefan Anca + Seit-Amet Ailin, 1240F
